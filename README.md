@@ -24,5 +24,7 @@ server{
         include /etc/nginx/uwsgi_params;
     }
 }
+
 运行uwsgi --ini HelloWorld.ini
+
 访问http://hello.zgj.com/index
