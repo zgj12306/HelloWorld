@@ -7,6 +7,7 @@ python版本3.7.4
 需要配置nginx
 
 server{
+
     listen 80;
     server_name hello.zgj.com;
     charset utf-8;
