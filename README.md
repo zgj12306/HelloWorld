@@ -1,7 +1,11 @@
 python版本3.7.4
+
 扩展库在require.txt文件里面
+
 通过 pip install -r require.txt 命令安装扩展
+
 需要配置nginx
+
 server{
     listen 80;
     server_name hello.zgj.com;
